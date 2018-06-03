@@ -1,0 +1,5 @@
+﻿  Generating code
+c:\users\adelin\desktop\poo 2 - survival game\poo 2 - survival game\game.cpp(125): warning C4715: 'Game::findItemByCoords': not all control paths return a value
+c:\users\adelin\desktop\poo 2 - survival game\poo 2 - survival game\game.cpp(206): error C4703: potentially uninitialized local pointer variable 'tmp' used
+  All 235 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed
