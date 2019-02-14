@@ -6,4 +6,4 @@ the point to move to, if an agent is nearby they will go fight him and if there'
 a few agents are left they are just going to speed up the game and start picking fighting over anything. There are also a few types
 of agents wth different powers (they can see further, they can move more blocks at once or they can simply teleport to a specific
 location). The items can increase their vision or make them win the next battle for sure or increase the amount of blocks they can move
-at once.
+at once. Last standing agent wins.
